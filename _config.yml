@@ -7,9 +7,12 @@ permalink:        pretty
 
 
 # Setup
-title:            Suzi
+title:            try {
+                        suzanBurdan
 tagline:          'Front-End Developer'
-description:      'Creating art through technology.<a href="https://linkedin.com/in/suzan-burdan-a847ba199" target="_blank">@in</a>.'
+description:      'frontEndDeveloper(); 
+                    while (aiming to create art through technology) {
+                      System.println<a href="https://linkedin.com/in/suzan-burdan-a847ba199" target="_blank">( @in )</a>.'
 url:              https://www.suzanburdan.com/
 baseurl:          https://www.suzanburdan.com/
 
