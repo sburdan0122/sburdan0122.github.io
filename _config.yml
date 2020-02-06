@@ -13,7 +13,7 @@ description:      'frontEndDeveloper( ); <a href="url"> while </a> (aiming to cr
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
-
+baseurl:          https://www.suzanburdan.com/
 paginate:         5
 
 # Custom vars
