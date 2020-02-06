@@ -9,8 +9,9 @@ permalink:        pretty
 # Setup
 title:            try {
                         sBurdan
-tagline:          'Front-End Developer'
-description:      'frontEndDeveloper( );  while (aiming to create art through technology)  System.println( ) }'
+tagline:          ''
+description:      'frontEndDeveloper( ); <a href="url"> while </a> (aiming to create art through technology)  System.println( ) 
+                  }'
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
