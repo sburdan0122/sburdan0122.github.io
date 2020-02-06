@@ -251,9 +251,9 @@ a.sidebar-nav-item:focus {
 
 /* Green Yellow */
 .theme-base-0g .sidebar {
-  background-color: #FF1493;
+  background-color: #FFFF00;
 }
 .theme-base-0g .content a,
 .theme-base-0g .related-posts li a:hover {
-  color: #FF1493;
+  color: #FFFF00;
 }
